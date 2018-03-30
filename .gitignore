@@ -1,0 +1,4 @@
+.hasura
+react-native-app/node_modules
+react-native-app/.expo
+microservices/api/src/node_modules
